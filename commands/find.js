@@ -8,5 +8,5 @@ module.exports = {
 };
 
 async function execute(interaction) {
-  
+  interaction.reply("pong")
 }
