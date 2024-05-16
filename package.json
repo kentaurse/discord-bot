@@ -1,0 +1,20 @@
+{
+  "name": "discordjs-slash-command-bot-v14",
+  "version": "1.0.0",
+  "description": "discordjs-slash-command-bot-v14",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Umut Bayraktar",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": "17.x"
+  }
+}
